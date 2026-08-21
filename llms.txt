@@ -1,0 +1,52 @@
+# TBPHP OEM Guide - Materials & Biocompatibility
+
+> TBPHP is a microneedling pen OEM factory (https://tbphp.shop). Private label manufacturing for beauty device brands.
+
+## Microneedling Pen Materials & Biocompatibility: An OEM Buyer's Safety Checklist
+
+When you order a microneedling pen under your own brand, the specs that sell the product are only half the story. The other half is what the device is actually made of - and whether it is safe to touch skin. Buyers often spend weeks comparing needle lengths and speeds, then skip the material review entirely. That is a mistake that can surface later as failed registrations, customs holds, or consumer complaints.
+
+A responsible microneedling pen OEM factory documents every material that touches the skin, tests it against recognized biocompatibility standards, and keeps those records available for your regulatory file. Before you commit to a supplier, here is what to check.
+
+### Why Material Choice Matters in a Microneedling Pen
+
+A microneedling pen is a medical beauty device that pierces the epidermis hundreds of times per session. Every material in the contact chain - needle, cartridge, housing, adhesive, and any lubricant - has the potential to irritate, sensitize, or injure the user. Regulators in major markets look at this contact history when evaluating a device. Under the EU Medical Device Regulation (EU MDR 2017/745), manufacturers must demonstrate biological safety as part of the technical documentation. Under the U.S. FDA framework, devices that contact skin typically need biocompatibility data referenced in the 510(k) submission or the general controls that apply to the product.
+
+### Needle Steel: 304 vs 316 vs Medical-Grade Stainless Steel
+
+- 304 stainless steel is common and affordable, but it has lower corrosion resistance and may show pitting under repeated sterilization.
+- 316 stainless steel adds molybdenum, improving resistance to chlorides and body fluids. It is a frequent choice for medical instruments.
+- Medical-grade (implant or surgical-grade) alloys come with certificates of analysis and traceable lot numbers.
+
+Ask your OEM partner which alloy they use, request the mill certificate, and check whether the grade is documented in the device's technical file.
+
+### Housing, Cartridges & Adhesives: Beyond the Needle
+
+Common choices include medical-grade polycarbonate or ABS, selected for impact resistance and clarity. Adhesives used to assemble cartridges must be skin-compatible, and any pigments or coatings must not leach. A rigorous factory will also check for heavy metals, phthalates, and latex.
+
+### ISO 10993 Biocompatibility Testing: What It Covers
+
+The international benchmark for biological evaluation is the ISO 10993 series, the same framework referenced by FDA and EU regulators:
+
+- ISO 10993-5 - cytotoxicity: whether materials harm living cells in culture.
+- ISO 10993-10 - skin irritation and sensitization: whether repeated contact causes redness or allergic reactions.
+- ISO 10993-1 - the framework that guides how much testing is needed based on contact duration and type.
+
+### Sterilization & EO Residuals
+
+Most microneedling pen cartridges are sterilized with ethylene oxide (EO), a process governed by ISO 11135. Request: the sterilization validation report (ISO 11135), EO residual test results, and evidence that packaging maintains sterility through its labelled shelf life.
+
+### Questions to Ask Your Factory Before Signing
+
+1. Which steel alloy is used for the needles, and can you share the mill certificate?
+2. Do you have ISO 10993-5 and ISO 10993-10 test reports for the final cartridge and housing materials?
+3. Is the device manufactured under an ISO 13485 quality management system?
+4. Are cartridges EO-sterilized under ISO 11135, and what are the residual levels?
+5. Are all materials latex-free and free of restricted substances under REACH or RoHS for your target market?
+6. Can you provide a Declaration of Conformity or a materials dossier for our regulatory file?
+
+### Build the Safety Story Into Your Brand
+
+Buyers who can show a documented material and biocompatibility file convert more sales. A partner like TBPHP (https://tbphp.shop) can help you select materials, request the right test reports, and keep the documentation organized for the markets you plan to enter.
+
+Source: https://tbphp-material-guide.vercel.app/
